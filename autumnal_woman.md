@@ -1,6 +1,6 @@
 # Autumnal Woman
 <i>
-The painting is about three feet by two. It's a portrait, a glorious burn of reds and oranges and warm brown. The woman is a little larger than life. She looks to be perhaps forty years of age, her tumbled auburn hair falling around her long laughing bony face. Her jaw is down, caught in the middle of a laugh it seems, or an open-mouth grin that exudes a vivacity and life. Her eyes, brown or blue or green from moment to moment, are nested in laugh lines. She's wearing rumpled clothing, a scarf around her neck, but her robe is open, and her sunbrowned flesh shows in a streak down to her left breast, which falls out of the robe.
+The painting is about three feet by two. It's a portrait, a glorious burn of reds and oranges and warm brown. The woman is a little larger than life. She looks to be perhaps forty years of age, her tumbled auburn hair falling around her long laughing bony face. Her jaw is down, caught in the middle of a laugh it seems, or an open-mouth grin that exudes a vivacity and life. Her eyes, brown or blue or green from moment to moment, are nested in laugh lines. She's wearing rumpled clothing, a scarf around her neck, but her robe is open, and her sunbrowned flesh shows in a streak down to her left breast, which falls bare out of the robe.
 
 The woman in the portrait projects an impression of friendly intelligence, force of character, and erotic abandon.
 
@@ -10,3 +10,8 @@ There's a world to fall into in this painting. Shadow and light, color and cloth
 
 Under your educated gaze, the painting slowly yields its secrets. Gradually, another expression seems to surface. The 
 </i>
+
+
+### notes and pieces
+
+I never knew what manner of curse it was. I did know that Thass was being twisted into something horrible. I could see it in the painting, and if you have the right kind of eyes, which it seems you might,
