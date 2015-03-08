@@ -5,25 +5,27 @@ The painting is about three feet tall by two wide. It's a portrait, a glorious b
 
 <i>
 She’s dressed in clothes brown and red with sharp azure accents, rumpled, a scarf swathed around her neck; but her robe is open, and her sunbrowned flesh shows in a glowing streak down to her left breast, which falls bare and elegant. Her eyes, brown or blue or green from moment to moment, are nested in laugh lines. You realize that she’s looking slightly over your right shoulder while, it seems, pretending to converse warmly with you. 
-</i>
-
-<i>
+</i
 The longer you look, the more you realize that the painter captured something almost impossible to believe, something that’s looking out at you. 
-</i>
 
-<i>
 The impact of the painting is solid and exhilarating. You find yourself studying the simple, perfect brushwork—you have learned to see brush strokes as individual decisions, and the mastery of those choices haunts you.
-</i>
 
-<i>
 There's a world to fall into in this painting. Shadow and light, color and cloth, the intense impact of the woman's expression, the vivid personality that leaps from the canvas. In an unworthy, wayward moment, you feel a passing hope that your own tits look as good when you're that age. But your absorption and delight, your artist's eye, prevails. You're not really all that self-regarding, are you? The vain concern for the appearance of your own breasts is no more than a brief glimmer: it fades, and you study the painting, live within its frame. Under your educated gaze, the painting slowly yields its secrets. 
-</i>
 
-<i>
 The Master looks at it for a long time, and sighs, before he begins to speak.
 </i>
 
-<div style="text-align:center" markdown="1">\#</div>
+<div text-align='center'>#</div>
+
+I remember her so well. I began the painting from life, but long after she’d gone I returned to it, trying to capture that one look. I was afraid that I’d forget it and never be able to finish it. I needn’t have worried; I’ll never forget it. I’m happy with this one, because that’s exactly how she looked. Exactly.
+
+Thaseraine was my friend. She worked in clay. I think she used a fair amount of magic, especially for the glazes; but she was far too wise to get herself into trouble with that.
+
+Yes, I was attracted to her—you only need look at the painting to see it, if you’ve got eyes, and I’m starting to think that you do—but we never were lovers, nor did we ever really think it might have been a good idea. We were good friends, and even more, we respected each other as artists. She and a young printmaker named Edroc were together. 
+
+Everyone understood that. If you care about people at all, you learn well enough that there are some lovers that you should try to break apart if you can, and others for whom it would be a crime. Edroc was a good ten years younger, but that didn’t make any difference. Their spirits fitted together well. He was a beautiful man, and a good drinking companion, and best of all, a gifted and serious artist. I remember spending entire days with him in the studio, both of us so absorbed in what we were doing that we said not a word from morning to evening.
+
+There’s a drawing of him over there. No, not one of mine. Jirel drew it. I’ll tell you about her later.
 
 I remember her so well. I began the painting from life, but long after she’d gone I returned to it, trying to capture that one look. I was afraid that I’d forget it and never be able to finish it. I needn’t have worried; I’ll never forget it. I’m happy with this one, because that’s exactly how she looked. Exactly.
 
@@ -51,7 +53,7 @@ Then it changed. Changed suddenly, or so it seemed to all of us. It was Tammo, I
 
 It was a thing beyond sense. My first thought was for Thass—our Thaseraine, our wild and beautiful lady of the autumn skies.
 
-<div style="text-align:center" markdown="1">\#</div>
+<div style='text-align:center'>#</div>
 
 I remember the rain. It came down in sheets, with pauses, as it will when the wind is in the south. It washed the cobblestones, and made dull, gleaming curtains in front of the lamps of the tavern where I found her. She was drinking alone, and did not welcome my company.
 
@@ -74,7 +76,7 @@ She just looked at me. Then she gave forth a groan. The groan went up into a sor
 Suddenly, moving faster than I’ve ever seen a human move, she was up, hunched, claws curved, staring at me blankly. Then she was gone, the door to the inn banging open on the hiss and clatter of the rain, the dark empty street.
 I never saw her again. Nor did anyone else in the city.
 
-<div style="text-align:center" markdown="1">\#</div>
+<p style='text-align:center'>#</p>
 
 I had no reason to keep secrets. I told people who knew them. I made it my business to explain that Carezma had used something old, something found, a Forerunner curse piece, and given it to Thaseraine. Old Torinese are still, and always, the best for finding Forerunner artifacts, and I suppose that’s what this thing was. I warned everybody. No one ever found the brooch. I suppose Thass took it. It would have been useful to her, to help track Carezma down.
 
@@ -149,13 +151,3 @@ I dissembled my sudden illness, making as if it had been too much wine; I went o
 In my simple arrogance, I had thought I had simply been removing a curse. It had never crossed my mind that it would leave Thass unprotected.
 
 Carezma? Ah. Yes. The wicked do sometimes prosper, don’t they. She had cursed Thaseraine, and broken her from Edroc.  She had lured Thaseraine into a far land, whether on purpose or by chance I shall never know. She had brought ruin in her wake to Ystri, and then left, safely untouched by the ill she had wrought.
-
-But… I was unsatisfied with that. After I had recovered from my illness, I spent five days straight, or perhaps six, working on a painting of Carezma that I had done earlier. I had learned to paint to reverse a curse, but I had learned that I could do more than that. There was justice in every brushstroke, as I repainted her.
-
-The painting of Carezma is still here. You’ll see it in the morning, I think. Yes, I made her look like that.
-
-It’s nowhere near as great a work as Autumnal Woman, as I think you will realize. But—and not all artists would agree with this—the great emotions are the fuel of which great Art is the flame. Guilt is one of the greatest, don’t you think?
-
-I think I shall take my rowboat out on the Lake, out under the stars. I apologize for leaving you to your own devices.
-
-Oh—please be so good as to stay out of the North Wing of the house while I’m not here to escort you. The art there is most unsafe to touch; at night, by lamplight, unsafe even to view.
