@@ -53,7 +53,7 @@ Then it changed. Changed suddenly, or so it seemed to all of us. It was Tammo, I
 
 It was a thing beyond sense. My first thought was for Thass—our Thaseraine, our wild and beautiful lady of the autumn skies.
 
-<div style='text-align:center'>#</div>
+<div style='text-align:center; width:100%'>#</div>
 
 I remember the rain. It came down in sheets, with pauses, as it will when the wind is in the south. It washed the cobblestones, and made dull, gleaming curtains in front of the lamps of the tavern where I found her. She was drinking alone, and did not welcome my company.
 
@@ -151,3 +151,13 @@ I dissembled my sudden illness, making as if it had been too much wine; I went o
 In my simple arrogance, I had thought I had simply been removing a curse. It had never crossed my mind that it would leave Thass unprotected.
 
 Carezma? Ah. Yes. The wicked do sometimes prosper, don’t they. She had cursed Thaseraine, and broken her from Edroc.  She had lured Thaseraine into a far land, whether on purpose or by chance I shall never know. She had brought ruin in her wake to Ystri, and then left, safely untouched by the ill she had wrought.
+
+But… I was unsatisfied with that. After I had recovered from my illness, I spent five days straight, or perhaps six, working on a painting of Carezma that I had done earlier. I had learned to paint to reverse a curse, but I had learned that I could do more than that. There was justice in every brushstroke, as I repainted her.
+
+The painting of Carezma is still here. You’ll see it in the morning, I think. Yes, I made her look like that.
+
+It’s nowhere near as great a work as Autumnal Woman, as I think you will realize. But—and not all artists would agree with this—the great emotions are the fuel of which great Art is the flame. Guilt is one of the greatest, don’t you think?
+
+I think I shall take my rowboat out on the Lake, out under the stars. I apologize for leaving you to your own devices.
+
+Oh—please be so good as to stay out of the North Wing of the house while I’m not here to escort you. The art there is most unsafe to touch; at night, by lamplight, unsafe even to view.
