@@ -1,19 +1,29 @@
 # Autumnal Woman
 <i>
 The painting is about three feet tall by two wide. It's a portrait, a glorious burn of reds and oranges and warm brown. The woman is a little larger than life. She looks to be perhaps forty years of age, her tumbled auburn hair falling around her long laughing bony face. Her jaw is down, caught in the middle of a laugh it seems, or an open-mouth grin that exudes a vivacity and life. A wolf’s grin. You’ve seen a wolf laugh before. This woman has no blood on her mouth, though.
+</i>
 
+<i>
 She’s dressed in clothes brown and red with sharp azure accents, rumpled, a scarf swathed around her neck; but her robe is open, and her sunbrowned flesh shows in a glowing streak down to her left breast, which falls bare and elegant. Her eyes, brown or blue or green from moment to moment, are nested in laugh lines. You realize that she’s looking slightly over your right shoulder while, it seems, pretending to converse warmly with you. 
+</i>
 
+<i>
 The longer you look, the more you realize that the painter captured something almost impossible to believe, something that’s looking out at you. 
+</i>
 
+<i>
 The impact of the painting is solid and exhilarating. You find yourself studying the simple, perfect brushwork—you have learned to see brush strokes as individual decisions, and the mastery of those choices haunts you.
+</i>
 
+<i>
 There's a world to fall into in this painting. Shadow and light, color and cloth, the intense impact of the woman's expression, the vivid personality that leaps from the canvas. In an unworthy, wayward moment, you feel a passing hope that your own tits look as good when you're that age. But your absorption and delight, your artist's eye, prevails. You're not really all that self-regarding, are you? The vain concern for the appearance of your own breasts is no more than a brief glimmer: it fades, and you study the painting, live within its frame. Under your educated gaze, the painting slowly yields its secrets. 
+</i>
 
+<i>
 The Master looks at it for a long time, and sighs, before he begins to speak.
 </i>
 
-\#
+<div style="text-align:center" markdown="1">\#</div>
 
 I remember her so well. I began the painting from life, but long after she’d gone I returned to it, trying to capture that one look. I was afraid that I’d forget it and never be able to finish it. I needn’t have worried; I’ll never forget it. I’m happy with this one, because that’s exactly how she looked. Exactly.
 
@@ -41,7 +51,7 @@ Then it changed. Changed suddenly, or so it seemed to all of us. It was Tammo, I
 
 It was a thing beyond sense. My first thought was for Thass—our Thaseraine, our wild and beautiful lady of the autumn skies.
 
-\#
+<div style="text-align:center" markdown="1">\#</div>
 
 I remember the rain. It came down in sheets, with pauses, as it will when the wind is in the south. It washed the cobblestones, and made dull, gleaming curtains in front of the lamps of the tavern where I found her. She was drinking alone, and did not welcome my company.
 
@@ -64,7 +74,7 @@ She just looked at me. Then she gave forth a groan. The groan went up into a sor
 Suddenly, moving faster than I’ve ever seen a human move, she was up, hunched, claws curved, staring at me blankly. Then she was gone, the door to the inn banging open on the hiss and clatter of the rain, the dark empty street.
 I never saw her again. Nor did anyone else in the city.
 
-\#
+<div style="text-align:center" markdown="1">\#</div>
 
 I had no reason to keep secrets. I told people who knew them. I made it my business to explain that Carezma had used something old, something found, a Forerunner curse piece, and given it to Thaseraine. Old Torinese are still, and always, the best for finding Forerunner artifacts, and I suppose that’s what this thing was. I warned everybody. No one ever found the brooch. I suppose Thass took it. It would have been useful to her, to help track Carezma down.
 
