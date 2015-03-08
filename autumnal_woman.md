@@ -53,7 +53,7 @@ Then it changed. Changed suddenly, or so it seemed to all of us. It was Tammo, I
 
 It was a thing beyond sense. My first thought was for Thass—our Thaseraine, our wild and beautiful lady of the autumn skies.
 
-<div style='text-align:center; width:100%'>#</div>
+\#
 
 I remember the rain. It came down in sheets, with pauses, as it will when the wind is in the south. It washed the cobblestones, and made dull, gleaming curtains in front of the lamps of the tavern where I found her. She was drinking alone, and did not welcome my company.
 
@@ -88,7 +88,7 @@ I had been seeing the curse at work, before it was fulfilled.
 
 I remember I looked at the light, and looked at the portrait. And then I started mixing the paints.
 
-\#
+#
 
 It was a dreadful time, that month or so that I wrestled with the painting. It defeated me completely at first. I struggled to hold to the memory: Thaseraine, my friend, our friend, the genius of the wheel and kiln. The beautiful, gifted artist who had turned into a ravening madwoman and vanished. As I painted, it seemed to me I had never done so well, never captured the light and shadow, color and curve and rumpled outline of cloth with quite such a power of sight and hand. It was a great step in my mastery of the art of paint.
 
