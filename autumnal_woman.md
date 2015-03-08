@@ -5,13 +5,21 @@ The painting is about three feet tall by two wide. It's a portrait, a glorious b
 
 <i>
 She’s dressed in clothes brown and red with sharp azure accents, rumpled, a scarf swathed around her neck; but her robe is open, and her sunbrowned flesh shows in a glowing streak down to her left breast, which falls bare and elegant. Her eyes, brown or blue or green from moment to moment, are nested in laugh lines. You realize that she’s looking slightly over your right shoulder while, it seems, pretending to converse warmly with you. 
-</i
-The longer you look, the more you realize that the painter captured something almost impossible to believe, something that’s looking out at you. 
+</i>
 
+<i>
+The longer you look, the more you realize that the painter captured something almost impossible to believe, something that’s looking out at you.
+</i>
+
+<i>
 The impact of the painting is solid and exhilarating. You find yourself studying the simple, perfect brushwork—you have learned to see brush strokes as individual decisions, and the mastery of those choices haunts you.
+</i>
 
+<i>
 There's a world to fall into in this painting. Shadow and light, color and cloth, the intense impact of the woman's expression, the vivid personality that leaps from the canvas. In an unworthy, wayward moment, you feel a passing hope that your own tits look as good when you're that age. But your absorption and delight, your artist's eye, prevails. You're not really all that self-regarding, are you? The vain concern for the appearance of your own breasts is no more than a brief glimmer: it fades, and you study the painting, live within its frame. Under your educated gaze, the painting slowly yields its secrets. 
+</i>
 
+<i>
 The Master looks at it for a long time, and sighs, before he begins to speak.
 </i>
 
@@ -88,7 +96,7 @@ I had been seeing the curse at work, before it was fulfilled.
 
 I remember I looked at the light, and looked at the portrait. And then I started mixing the paints.
 
-#
+\#
 
 It was a dreadful time, that month or so that I wrestled with the painting. It defeated me completely at first. I struggled to hold to the memory: Thaseraine, my friend, our friend, the genius of the wheel and kiln. The beautiful, gifted artist who had turned into a ravening madwoman and vanished. As I painted, it seemed to me I had never done so well, never captured the light and shadow, color and curve and rumpled outline of cloth with quite such a power of sight and hand. It was a great step in my mastery of the art of paint.
 
