@@ -35,27 +35,17 @@ Everyone understood that. If you care about people at all, you learn well enough
 
 There’s a drawing of him over there. No, not one of mine. Jirel drew it. I’ll tell you about her later.
 
-I remember her so well. I began the painting from life, but long after she’d gone I returned to it, trying to capture that one look. I was afraid that I’d forget it and never be able to finish it. I needn’t have worried; I’ll never forget it. I’m happy with this one, because that’s exactly how she looked. Exactly.
-
-Thaseraine was my friend. She worked in clay. I think she used a fair amount of magic, especially for the glazes; but she was far too wise to get herself into trouble with that.
-
-Yes, I was attracted to her—you only need look at the painting to see it, if you’ve got eyes, and I’m starting to think that you do—but we never were lovers, nor did we ever really think it might have been a good idea. We were good friends, and even more, we respected each other as artists. She and a young printmaker named Edroc were together. 
-
-Everyone understood that. If you care about people at all, you learn well enough that there are some lovers that you should try to break apart if you can, and others for whom it would be a crime. Edroc was a good ten years younger, but that didn’t make any difference. Their spirits fitted together well. He was a beautiful man, and a good drinking companion, and best of all, a gifted and serious artist. I remember spending entire days with him in the studio, both of us so absorbed in what we were doing that we said not a word from morning to evening.
-
-There’s a drawing of him over there. No, not one of mine. Jirel drew it. I’ll tell you about her later.
-
 Carezma… now, Carezma, she was a metalsmith. A very good one. She was Old Torinese of the purest blood: slight, dark, paleskinned. The old families have faded, and many of them don’t like it. The old Hill holds are often empty and ruinous, the home of bats and weasels, or of people who speak a different tongue. Well, you know all of this, don’t you. But, even in their most downfallen state, no man can deny that the Old Torinese have greater powers of hearing and sight and working than most of the rest of us. And they know more about the Elder works than anybody else.
 
-She looked upon Edroc with favor and pleasure, Carezma did. And when she let him know, she was most shocked and insulted that he did not immediately abandon Thass. Carezma was accustomed to getting what she wanted by crooking a finger. But not from Edroc. He treated her with courtesy and in as good part as he could manage, always seeking to bring her into our group of friends. We could all see that it was an unlikely thing. Carezma had a sullen, self-important sneer on her pretty face—you couldn’t always see it, but after you’d known her a while you could tell well enough that it was still there.
+She looked upon Edroc with favor and pleasure, Carezma did. And when she let him know, she was most shocked and insulted that he did not immediately abandon Thass. Carezma was accustomed to getting what she wanted by crooking a finger. But she didn't get it from Edroc. He treated her with courtesy and in as good part as he could manage, always seeking to bring her into our group of friends. We could all see that it was an unlikely thing. Carezma had a sullen, self-important sneer on her pretty face—you couldn’t always see it, but after you’d known her a while you could tell well enough that it was still there.
 
 A number of us tried to bring her in and make her welcome. Some drank with her, some talked of art, and learned what they could of metalsmithing—and she had much to teach, when she was willing. Some slept with her, but had little to say about it afterwards. I myself painted her a few times, and I’ve still got the best of those canvases around… no, later, in time. The story needs to come first. 
 
 In the end, the whole situation became too uncomfortable. Carezma’s metalwork was brilliantly accomplished in technique, but she had little true artistic sensibility. When she drank, her sneer came out. We did not know enough about the Old Torinese families, I suppose. In the end, she took up with some of her own people, although she was still always sniffing around Edroc.
 
-Thass never took it ill, though I think she was worried a bit for Edroc’s sake. We—Thass and I—spoke a good deal in those days, for I was painting this portrait. Autumnal Woman. Afternoons, when the light was right. (That was the studio I shared with Jirel and Corzey: the place you see in the painting.) I was having a hard time with this canvas: it was like something was creeping into Thass’s face, something unsettling. 
+Thass never took it ill, though I think she was worried a bit for Edroc’s sake. We—Thass and I—spoke a good deal in those days, for I was painting this portrait. _Autumnal Woman._ Afternoons, when the light was right. (That was the studio I shared with Jirel and Corzey: the place you see in the painting.) I was having a hard time with this canvas: it was like something was creeping into Thass’s face, something unsettling. 
 
-When I turn my artist’s eye on a person, not much hides from it. And Thass was brooding, distant; I was having my own troubles with a woman, and I think I tended to mistrust the mood of the sittings. But after a time I told Thass that I was having too much trouble with the painting. It was coming along beautifully, but the face was looking feral. Violent. As if some spirit of destruction were hidden in her mind. I suspended the sittings for a while, and turned my hand to other things. I didn’t see Thass, or Edroc for that matter, for a long time, except casually out and about, to wave to in the streets.
+When I turn my artist’s eye on a person, not much hides from it. And Thass was brooding, distant; I was having my own troubles with a woman then, and I think I tended to mistrust the mood of the sittings. But after a time I told Thass that I was having too much trouble with the painting. It was coming along beautifully, but the face was looking feral. Violent. As if some spirit of destruction were hidden in her mind. I suspended the sittings for a while, and turned my hand to other things. I didn’t see Thass, or Edroc for that matter, for a long time, except casually out and about, to wave to in the streets.
 
 Then it changed. Changed suddenly, or so it seemed to all of us. It was Tammo, I recall,—he was a woodcarver, a friend of Edroc’s—who gave me the news: Thass, in a wild passion of jealousy, had clawed Edroc’s face, marring it. He, in turn, had gone away—“with Carezma, if you can believe it”, he said.
 
@@ -73,7 +63,7 @@ I asked her then about the tale that she had clawed Edroc’s face, and her enti
 
 She laughed a little. “Not he. He would never have taken anything from her… he was always too earnestly cautious. He did his best never to lead her on.” She shook her head in savage self-mockery. “When I struck out at him, that freed him to follow his heart, you see.”
 
-This made no sense to me.
+This made no sense to me. None of it was making any sense.
 
 “The only piece of Carezma’s art that we ever had was a brooch that she gave me.” I looked at her, not understanding. “You know how her work was always stiff, always somewhat lifeless? Well, this wasn’t. It was grotesque, but it had life. A skull pierced by a spear coming up from below… and the butt of the spear ended in a hoof. It was good. I was trying to be companionable, and this was something I could do. Because I honestly admired the thing. Breathtaking.”
 
@@ -110,7 +100,9 @@ I thought about it sober and drunk. I smoked hemp and thimbleweed, and I thought
 
 I thought that painting the cruel painting, the painting showing the insanity, the predator within, would be a way of telling the story. And I very nearly did that: very nearly followed my mad hand and brush. Art is a harsh discipline. I don’t know whether you have found that to be true. But you probably will, if you’re anything. Anything more than a grinning fool with a gift.
 
-In the end, I couldn’t bring myself to paint that which my Art was howling at me to paint. I sometimes dream about it, in the still hours of the night, when clouds cover the stars and there’s a low muffled thunder from somewhere away. I find myself dreaming that I’m painting the monster, and that the eyes of the corrupted woman in the painting are following me. I’ll awake with my penis shamefully erect, and a great fearful knowledge comes over me that I’ve taken a little too much of the corruption into myself, that I’ll never be free of it. Beyond that there’s the hidden terror that I will awaken and no longer wish to be free of it. When those dreams happen, I do not paint, nor draw, for a day; I fear what may find its way onto the canvas. I busy myself with other things, until I sleep again and dream different dreams.
+No offense meant.
+
+In the end, I couldn’t bring myself to paint that which my Art was howling at me to paint. I sometimes dream about it, in the still hours of the night, when clouds cover the stars and there’s a low muffled thunder from somewhere away. I find myself dreaming that I’m painting the monster, and that the eyes of the corrupted woman in the painting are following me. I’ll awake with my penis shamefully erect, and a great fearful knowledge comes over me that I’ve taken a little too much of the corruption into myself, that I’ll never be free of it. Beyond that there’s the hidden terror that I will awaken, and… no longer wish to be free of it. When those dreams happen, I do not paint, nor draw, for a day; I fear what may find its way onto the canvas. I busy myself with other things, until I sleep again and dream different dreams.
 
 I chose not to make my friend into a monster for all time. And at the same time, I was utterly unwilling to lie. So I took up work again, in those high days of autumn, unsure of my course, but with some sense that my purpose was workable.
 
@@ -118,7 +110,7 @@ I began by painting Thaseraine as the monster after all. The paint is there, or 
 
 I see you do not flinch. That’s good, I think.
 
-But then I began to paint over the curse, to bring my friend Thass back and to banish the monster. It was a horrid hard time, and sometimes I found myself, exhausted and disoriented, with clawmarks on my arms, once a bite on my shoulder. I was often drunk, often drugged with one thing or another. It may have been foolish bravado, but I felt that I was more comfortable with intoxication that a mere Elder curse could ever be. 
+But then I began to paint over the curse, to bring my friend Thass back and to banish the monster. It was a horrid hard time, and sometimes I found myself, exhausted and disoriented, with clawmarks on my arms, once a bite on my shoulder. I was often drunk, often drugged with one thing or another. It may have been foolish bravado, but I felt that I was more comfortable with intoxication than a mere Elder curse could ever be. 
 
 The old Forerunner artifacts are easily found and activated by Art. You know that much, I hope. But what I learned over those grim weeks, wrestling with the painting, was that Art has power of its own. Art could fight its way clear of an Elder curse.
 
@@ -138,7 +130,7 @@ There was a Beast that preyed on people, the traders said, a terror of the night
 
 This Beast was fast and tough and cunning, and it croaked old words to foil magicians who sought to trap it in stone circles under the moon, and it slew huntsmen and soldiers alike with its jaws and talons. It seemed to know its business, so in the end folk let it pass, and shivered, and prayed that it would not take the children out of their cradles.
 
-It was in a small holding called Ystri that a small, delicate woman, gravely ill with mountain fever, begged for help, saying that the Beast was upon her, and she could not run much further. She was by description slender, paleskinned, dark of hair. 
+It was in a small holding called Ystri that a small, delicate woman, gravely ill with mountain fever, begged for help, saying that the Beast was upon her, and she could not run much further. She was by description Old Torinese: slender, paleskinned, dark of hair. 
 
 Ystri was a wise choice on her part, for the Lord was young and of a very romantic turn of mind; and he had a most powerful wizard on hand, and a rough crew of soldiers. They gave shelter to the woman, and laid plans to trap and destroy the Beast.
 
