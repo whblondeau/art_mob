@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014; all rights reserved_
+<hr/>
+
+
 # TL;DRs
 
 ## The Old Piece
