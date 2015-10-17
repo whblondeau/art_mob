@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014, 2015; all rights reserved_
+<hr/>
+
+
 To the north, the gray cold sea. Torin’s seaward faces are forbidding: tall walls of cliff and mountain, with little landing for ships, and little shelter from the ferocity of the storms.
 To the east and southeast, the great river in its canyon, seldom broken by fords. The cliffs rise high, for it’s mountain peaks and ranges, both ways.
 To the south, the many-armed, mystical lake.
