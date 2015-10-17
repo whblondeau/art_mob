@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014; all rights reserved_
+<hr/>
+
+
 You have a curiously hard time finding the place.
 
 It ends up being a long walk down a winding lane, mostly through woods. The sky is high and hard, with streaks and ribs of cloud very far above. The sun is a faded pearl most of the time; sometimes it burns through, like a candleflame in the arched spaces of the upper air. Your shadow seldom shows itself on the ground.
