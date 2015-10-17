@@ -1,3 +1,7 @@
+_Copyright&copy; Bill Blondeau, 2014, 2015; all rights reserved_
+<hr/>
+
+
 # Autumnal Woman
 <i>
 The painting is about three feet tall by two wide. It's a portrait, a glorious burn of reds and oranges and warm brown. The woman is a little larger than life. She looks to be perhaps forty years of age, her tumbled auburn hair falling around her long laughing bony face. Her jaw is down, caught in the middle of a laugh it seems, or an open-mouth grin that exudes a vivacity and life. A wolf’s grin. You’ve seen a wolf laugh before. This woman has no blood on her mouth, though.
