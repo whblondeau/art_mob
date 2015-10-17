@@ -1,4 +1,8 @@
-Travels In Odd Country
+_Copyright&copy; Bill Blondeau, 2014, 2015; all rights reserved_
+<hr/>
+
+
+##Travels In Odd Country
 I’m old and tired, and I would rather sit and listen to the trees in the wind, the wind hissing through the reeds. I love it when the peace of the waves and leaves soaks into my soul. Peace was not something I had a lot of, in my... wilder years.
 But… when I remember enough, it has a strange effect on my mind. The memories excite me. Textured, dense, surprising. Going back through them, touching them lightly, I’m drawn in. How could I not be? My mind is shaped to go its own way, it seems; memory has small purchase on how my thoughts are drawn and formed. So when I do go back and wander and 
 It seems almost unimaginable that I did the things I did, so I go back and revisit, rethink. Old man’s entertainment or reflex. I dwell on companions I had in those days, and the things I did which seem ridiculous or quaint, and the things I saw. Things I never painted and never will now. 
